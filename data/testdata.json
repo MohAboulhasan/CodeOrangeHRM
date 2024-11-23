@@ -1,0 +1,19 @@
+{
+  "Login": {
+    "ValidCredentials": {
+      "Username": "Admin",
+      "Password": "admin123"
+    }
+  },
+    "Admin":{
+  "SaveUser": {
+    "usernamesave": "Ahmed Ali",
+    "passwordsave": "Ahmed@12345",
+    "confirmpasswordsave": "Ahmed@12345"
+  }
+}
+
+
+
+    }
+
